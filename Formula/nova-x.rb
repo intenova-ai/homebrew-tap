@@ -8,7 +8,7 @@
 # Homebrew's own download carries no com.apple.quarantine xattr, so the
 # unsigned macOS binaries run without a Gatekeeper prompt via brew.
 class NovaX < Formula
-  desc "Nova X CLI — every platform tool from the terminal"
+  desc "Command-line client for the Nova X platform: every platform tool from the terminal"
   homepage "https://app.intenova.ai"
   version "1.0.0"
   license :cannot_represent
